@@ -1,0 +1,27 @@
+:root {
+    
+}
+
+.bg-dark {
+    background: #222;
+}
+
+.bg-white {
+    background: #fff;
+}
+
+.standard-container {
+    width: 100%;
+    max-width: 1200px;
+}
+
+.main-container {
+    width: 100%;
+    display: flex;
+    max-width: 1600px;
+}
+
+.grey { color: #999; }
+.text-light { color: #ddd; }
+.text-dark { color: rgba(0,0,0,0.7); }
+.text-dark-2 { color: rgba(0,0,0,0.9); }
