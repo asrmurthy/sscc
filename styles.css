@@ -51,5 +51,7 @@ body{
     color: #999;
 }
 
-a.link-colour:hover{ font-family: 'Montserrat'; font-weight: 400; color: #7C7C7C;}
-a.link-colour:active{font-family: 'Montserrat'; font-weight: 400; color: #7C7C7C;}
+a.link-colour{font-family: 'Montserrat'; font-weight: 400; color: #7C7C7C;}
+a.link-colour:visited{font-family: 'Montserrat'; font-weight: 400; color: #7C7C7C;}
+a.link-colour:hover{ font-family: 'Montserrat'; font-weight: 500; color: #7C7C7C;}
+a.link-colour:active{font-family: 'Montserrat'; font-weight: 500; color: #7C7C7C;}
