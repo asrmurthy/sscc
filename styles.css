@@ -46,3 +46,6 @@ a:active { text-decoration: none; }
 .link-colour{
     color: #999;
 }
+
+a.link-colour:hover{color: #999;}
+a.link-colour:active{color: #999;}
