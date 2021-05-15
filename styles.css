@@ -49,3 +49,11 @@ a:active { text-decoration: none; }
 
 a.link-colour:hover{color: #999;}
 a.link-colour:active{color: #999;}
+
+.uk-icon[uk-icon="icon: mail"] svg {
+    color: #F20505;
+}
+
+.uk-icon[uk-icon="icon: mail"] svg path {
+    color: #F20505;
+}
