@@ -42,3 +42,7 @@ a:active { text-decoration: none; }
     -webkit-animation-timing-function: cubic-bezier(.5, 0, 1, 1);
     -webkit-animation-duration: 1.7s;
 }
+
+.link-colour{
+    color: #999;
+}
