@@ -55,5 +55,5 @@ a.link-colour:active{color: #999;}
 }
 
 .uk-icon[uk-icon="icon: mail"] svg path {
-    color: #F20505;
+    fill: #F20505;
 }
